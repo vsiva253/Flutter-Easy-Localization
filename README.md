@@ -33,7 +33,7 @@ Follow these steps to get started with the project:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/multi_language_flutter_app.git`
+1. for the tutorial , watch this video: https://youtu.be/RAHiMQW7Jso?si=Ep6_ZjfwgogwQp86
 2. Change into the project directory: `cd multi_language_flutter_app`
 3. Install dependencies: `flutter pub get`
 
